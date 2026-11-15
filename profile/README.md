@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="logo-light.png">
-    <img src="logo-dark.png" width="220" alt="Experimental Open Works">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Experimental-Open-Works/.github/main/profile/logo-light.png">
+    <img src="https://raw.githubusercontent.com/Experimental-Open-Works/.github/main/profile/logo-dark.png" width="220" alt="Experimental Open Works">
   </picture>
   <h1>Experimental Open Works</h1>
   <p><strong>Research, tools and products for a freer, more open internet.</strong></p>
